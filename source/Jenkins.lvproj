@@ -1,5 +1,5 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
-<Project Type="Project" LVVersion="18008000">
+<Project Type="Project" LVVersion="19008000">
 	<Item Name="My Computer" Type="My Computer">
 		<Property Name="server.app.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="server.control.propertiesEnabled" Type="Bool">true</Property>
@@ -42,7 +42,7 @@
 				<Property Name="Destination[1].path" Type="Path">/C/Windows/Temp/NI_AB_PROJECTNAME/data</Property>
 				<Property Name="Destination[1].path.type" Type="Str">&lt;none&gt;</Property>
 				<Property Name="DestinationCount" Type="Int">2</Property>
-				<Property Name="Source[0].itemID" Type="Str">{290D1491-4C60-4D93-A463-6D685529647E}</Property>
+				<Property Name="Source[0].itemID" Type="Str">{37FB7F8C-569D-4085-BFE4-3FF9439D9281}</Property>
 				<Property Name="Source[0].type" Type="Str">Container</Property>
 				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
 				<Property Name="Source[1].itemID" Type="Ref">/My Computer/Add.vi</Property>
@@ -52,7 +52,7 @@
 				<Property Name="TgtF_companyName" Type="Str">National Instruments</Property>
 				<Property Name="TgtF_fileDescription" Type="Str">myBuildSpec</Property>
 				<Property Name="TgtF_internalName" Type="Str">myBuildSpec</Property>
-				<Property Name="TgtF_legalCopyright" Type="Str">Copyright © 2019 National Instruments</Property>
+				<Property Name="TgtF_legalCopyright" Type="Str">Copyright ? 2019 National Instruments</Property>
 				<Property Name="TgtF_productName" Type="Str">myBuildSpec</Property>
 				<Property Name="TgtF_targetfileGUID" Type="Str">{74AB941D-67A1-4F6F-874D-E58EA2239942}</Property>
 				<Property Name="TgtF_targetfileName" Type="Str">Application.exe</Property>
