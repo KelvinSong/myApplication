@@ -31,7 +31,7 @@
 				<Property Name="Bld_localDestDir" Type="Path">/C/Windows/Temp/NI_AB_PROJECTNAME</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{43C985F3-49B3-42F5-A367-7C53DDC800D8}</Property>
-				<Property Name="Bld_version.build" Type="Int">1</Property>
+				<Property Name="Bld_version.build" Type="Int">2</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">Application.exe</Property>
 				<Property Name="Destination[0].path" Type="Path">/C/Windows/Temp/NI_AB_PROJECTNAME/Application.exe</Property>
@@ -42,7 +42,7 @@
 				<Property Name="Destination[1].path" Type="Path">/C/Windows/Temp/NI_AB_PROJECTNAME/data</Property>
 				<Property Name="Destination[1].path.type" Type="Str">&lt;none&gt;</Property>
 				<Property Name="DestinationCount" Type="Int">2</Property>
-				<Property Name="Source[0].itemID" Type="Str">{22AEAB68-20EB-499B-B9BF-2C4768FD8ED8}</Property>
+				<Property Name="Source[0].itemID" Type="Str">{D723C287-A81F-44C9-8FF4-8C326C5A3796}</Property>
 				<Property Name="Source[0].type" Type="Str">Container</Property>
 				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
 				<Property Name="Source[1].itemID" Type="Ref">/My Computer/Add.vi</Property>
